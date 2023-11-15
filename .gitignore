@@ -1,0 +1,19 @@
+*.class
+
+# Package Files #
+/0.3.0.10
+/0.3.0.8
+/0.3.0.9
+/META-INF
+/OSGI-INF
+
+cosbench-*-sineio.tar.gz
+
+dist/osgi/plugins/cosbench*.jar
+
+release/log
+release/log/*
+release/archive
+release/archive/*
+release/start
+release/stop
