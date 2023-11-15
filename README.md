@@ -1,4 +1,6 @@
-cosbench增回alluxio bundle, 可以分布式压测alluxio网关，内部测试项目，鉴权硬编码的
+cosbench增加alluxio bundle, 可以分布式压测alluxio网关，内部测试项目，鉴权是硬编码的
+
+
 COSBench - Cloud Object Storage Benchmark
 =========================================
 
